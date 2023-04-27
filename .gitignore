@@ -1,4 +1,5 @@
-__pycache__
-model
-model-small
-spk
+__pycache__/
+model/
+model-small/
+spk/
+.DS_Store
