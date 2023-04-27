@@ -30,5 +30,5 @@ a chat bot using chat-gpt 3.5 api
 4. Run the program:
 
     ```sh
-    pip3 install -r requirements.txt
+    python3 main.py
     ```
